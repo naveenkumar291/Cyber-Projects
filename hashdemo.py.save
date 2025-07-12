@@ -1,0 +1,16 @@
+import hashlib
+from pyfiglet import Figlet
+import sys
+
+def main()
+    menu()
+
+def menu():
+    print()
+    custom_fig = Figlet(font"smblock")
+    print(custom_fig.renderText("Hash the String")
+    print()
+    print(*** convert your string to hash ***)
+    print()
+
+
